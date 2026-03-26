@@ -5,7 +5,6 @@ I build efficient, scalable, and local-first solutions that make AI and software
 - ⚙️ Skilled in Python, ML pipelines, and backend optimization.  
 - 🕹️ Exploring game systems, simulation logic, and performance-focused design.  
 - 📊 Interested in AI evaluation, benchmarking, and efficient inference.  
-- 🌱 Currently diving into token compression, diffusion-style text generation, and lightweight model training.  
 - 🤝 Open to collaboration on AI/ML, software tooling, or optimization projects.
 
 ---
