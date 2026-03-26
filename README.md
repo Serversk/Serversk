@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Serversk 👋
 
-<!--
-**Serversk/Serversk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on **Python, AI/ML, and software tooling**.  
+I build projects that make development more efficient, reliable, and accessible.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills & Interests
+- **Languages:** Python, Java, C++ (basics)  
+- **AI/ML:** Hugging Face Transformers, PEFT/LoRA, QLoRA, LLM pipelines  
+- **Tools:** Git, GitHub, PyTorch, Jupyter, Docker  
+- **Other Interests:** Game development, optimization, research
+
+
+> “Building tools that make AI work for everyone, locally and efficiently.”
