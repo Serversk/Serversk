@@ -17,4 +17,5 @@ I build efficient, scalable, and local-first solutions that make AI and software
 ![Linux](https://img.shields.io/badge/linux-%23000.svg?style=for-the-badge&logo=linux&logoColor=white) 
 
 ---
+# 🛠️ Products Made
 Axora Python Package [![PyPI Downloads](https://static.pepy.tech/personalized-badge/axora?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/axora)
