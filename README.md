@@ -15,3 +15,6 @@ I build efficient, scalable, and local-first solutions that make AI and software
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23000.svg?style=for-the-badge&logo=linux&logoColor=white) 
+
+---
+Axora Python Package [![PyPI Downloads](https://static.pepy.tech/personalized-badge/axora?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/axora)
